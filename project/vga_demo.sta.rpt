@@ -1,5 +1,5 @@
 Timing Analyzer report for vga_demo
-Fri Nov 14 19:05:39 2025
+Fri Nov 14 19:22:34 2025
 Quartus Prime Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
 
 
@@ -99,26 +99,26 @@ refer to the applicable agreement for further details.
 ; Number detected on machine ; 32          ;
 ; Maximum allowed            ; 16          ;
 ;                            ;             ;
-; Average used               ; 4.18        ;
+; Average used               ; 4.10        ;
 ; Maximum used               ; 16          ;
 ;                            ;             ;
 ; Usage by Processor         ; % Time Used ;
 ;     Processor 1            ; 100.0%      ;
-;     Processor 2            ;  24.1%      ;
-;     Processor 3            ;  22.1%      ;
-;     Processor 4            ;  21.9%      ;
-;     Processor 5            ;  21.1%      ;
-;     Processor 6            ;  21.0%      ;
-;     Processor 7            ;  21.0%      ;
-;     Processor 8            ;  21.0%      ;
-;     Processor 9            ;  20.9%      ;
-;     Processor 10           ;  20.9%      ;
-;     Processor 11           ;  20.8%      ;
-;     Processor 12           ;  20.7%      ;
-;     Processor 13           ;  20.7%      ;
-;     Processor 14           ;  20.7%      ;
-;     Processor 15           ;  20.6%      ;
-;     Processor 16           ;  20.6%      ;
+;     Processor 2            ;  23.2%      ;
+;     Processor 3            ;  21.5%      ;
+;     Processor 4            ;  21.3%      ;
+;     Processor 5            ;  20.4%      ;
+;     Processor 6            ;  20.4%      ;
+;     Processor 7            ;  20.4%      ;
+;     Processor 8            ;  20.4%      ;
+;     Processor 9            ;  20.4%      ;
+;     Processor 10           ;  20.3%      ;
+;     Processor 11           ;  20.3%      ;
+;     Processor 12           ;  20.3%      ;
+;     Processor 13           ;  20.3%      ;
+;     Processor 14           ;  20.3%      ;
+;     Processor 15           ;  20.2%      ;
+;     Processor 16           ;  20.2%      ;
 +----------------------------+-------------+
 
 
@@ -1104,7 +1104,7 @@ No non-DPA dedicated SERDES Receiver circuitry present in device or used in desi
 Info: *******************************************************************
 Info: Running Quartus Prime Timing Analyzer
     Info: Version 18.1.0 Build 625 09/12/2018 SJ Lite Edition
-    Info: Processing started: Fri Nov 14 19:05:32 2025
+    Info: Processing started: Fri Nov 14 19:22:28 2025
 Info: Command: quartus_sta vga_demo -c vga_demo
 Info: qsta_default_script.tcl version: #1
 Warning (18236): Number of processors has not been specified which may cause overloading on shared machines.  Set the global assignment NUM_PARALLEL_PROCESSORS in your QSF to an appropriate value for best performance.
@@ -1224,9 +1224,9 @@ Info (332146): Worst-case minimum pulse width slack is 1.666
 Info (332102): Design is not fully constrained for setup requirements
 Info (332102): Design is not fully constrained for hold requirements
 Info: Quartus Prime Timing Analyzer was successful. 0 errors, 3 warnings
-    Info: Peak virtual memory: 5415 megabytes
-    Info: Processing ended: Fri Nov 14 19:05:39 2025
-    Info: Elapsed time: 00:00:07
-    Info: Total CPU time (on all processors): 00:00:23
+    Info: Peak virtual memory: 5413 megabytes
+    Info: Processing ended: Fri Nov 14 19:22:34 2025
+    Info: Elapsed time: 00:00:06
+    Info: Total CPU time (on all processors): 00:00:22
 
 
